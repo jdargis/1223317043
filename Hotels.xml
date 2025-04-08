@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+  <Hotel _Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address _NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Marriott</Name>
+    <Phone>602-555-1122</Phone>
+    <Address>
+      <Number>45</Number>
+      <Street>N Central Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  <Hotel _Rating="3.9">
+    <Name>Hyatt</Name>
+    <Phone>480-222-3344</Phone>
+    <Phone>480-222-3345</Phone>
+    <Address _NearestAirport="Mesa Gateway">
+      <Number>200</Number>
+      <Street>S Mill Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Hilton</Name>
+    <Phone>480-323-9000</Phone>
+    <Address>
+      <Number>150</Number>
+      <Street>E Broadway Rd</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85210</Zip>
+    </Address>
+  </Hotel>
+  <Hotel _Rating="4.5">
+    <Name>Sheraton</Name>
+    <Phone>623-777-8888</Phone>
+    <Address>
+      <Number>98</Number>
+      <Street>W Main St</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Omni</Name>
+    <Phone>602-100-2020</Phone>
+    <Address>
+      <Number>67</Number>
+      <Street>E Thomas Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85014</Zip>
+    </Address>
+  </Hotel>
+  <Hotel _Rating="4.0">
+    <Name>Radisson</Name>
+    <Phone>480-777-1212</Phone>
+    <Phone>480-888-1212</Phone>
+    <Address _NearestAirport="Sky Harbor">
+      <Number>101</Number>
+      <Street>N 1st St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Embassy Suites</Name>
+    <Phone>602-303-4000</Phone>
+    <Address>
+      <Number>205</Number>
+      <Street>W Adams St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85003</Zip>
+    </Address>
+  </Hotel>
+  <Hotel _Rating="3.8">
+    <Name>Aloft</Name>
+    <Phone>480-000-9999</Phone>
+    <Address _NearestAirport="Sky Harbor">
+      <Number>88</Number>
+      <Street>N Scottsdale Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85260</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Holiday Inn</Name>
+    <Phone>480-321-1234</Phone>
+    <Address>
+      <Number>321</Number>
+      <Street>E Baseline Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85283</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>
